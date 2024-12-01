@@ -1,0 +1,1 @@
+g++ day1/day1.cpp -std=c++2a -O3
