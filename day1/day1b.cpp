@@ -80,6 +80,6 @@ int main()
     
     const int score = computeSimilarityScore(data);
 
-    std::cout << "Total Distance: " << score << "\n";
+    std::cout << "Total Score: " << score << "\n";
     system("pause");
 }
