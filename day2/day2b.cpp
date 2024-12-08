@@ -15,7 +15,6 @@ const uint32_t countLines(const std::string& filename)
                       std::istreambuf_iterator<char>(), '\n');
 }
 
-
 InputData readFile()
 {
     InputData data;
